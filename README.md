@@ -1,1 +1,1 @@
-# gems
+# Jewerly subscription service web project
