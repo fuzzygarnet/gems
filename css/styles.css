@@ -35,7 +35,7 @@ p {
 
 .colored-section {
   background-color: #a6e3e9;
-  color: #00a8cc;
+  color: #4d4c7d;
 }
 
 .white-section {
@@ -80,7 +80,7 @@ p {
 
 #title {
   background-color: #a6e3e9;
-  color:  #00a8cc;
+  color:  #4d4c7d;
   text-align: left;
 }
 
@@ -120,9 +120,9 @@ p {
   color: #11999e;
 }
 
-/* Testimonial Section */
+/*  Collection */
 
-#testimonials {
+#collection {
   background-color: #71c9ce;
 }
 
@@ -137,18 +137,18 @@ p {
   margin: 20px;
 }
 
-/* Pricing Section */
+ /* Subscription */
 
-#pricing {
+#subscription {
   padding: 100px;
 }
 
-.price-text {
+.subscription-text {
   font-size: 3rem;
   line-height: 1.5;
 }
 
-.pricing-column {
+.subscription-column {
   padding: 3% 2%;
 }
 
